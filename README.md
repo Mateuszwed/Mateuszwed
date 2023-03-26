@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mateusz-szwed-747625243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateusz-szwed-747625243/" height="30" width="40" /></a>
 </p>
 <p align="left">
-<b>mateuszwed@o2.pl</b>
+<b>kontakt@mateusz-szwed.pl</b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
